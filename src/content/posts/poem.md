@@ -1,7 +1,6 @@
 ---
 title: 别宁缘·岸宁冽若陵广开
 published: 2026-07-15
-pinned: true
 description: 伟大诗人李少康作品
 image: ./images/别宁缘·岸宁冽若陵广开.png
 tags: [李少康]
